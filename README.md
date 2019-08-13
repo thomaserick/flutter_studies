@@ -1,11 +1,11 @@
-## Getting Started Flutter
+# Getting Started Flutter
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 
-<b>Packages Dart: https://pub.dartlang.org/flutter</b>
+Packages Dart: https://pub.dartlang.org/flutter
 
-# Resumo
+## Resumo
 
 <b>Widgets</b>
 São componentes que podem ser adicionados no layout, são organizados em hierarquias para formar a tela. Consulta aos widgets: https://flutter.dev/docs/development/ui/widgets
