@@ -5,25 +5,25 @@
 
 # Resumo
 
-<b>Widgets
-São componentes que podem ser adicionados no layout, são organizados em hierarquias para formar a tela. Consulta aos widgets: https://flutter.dev/docs/development/ui/widgets
+<b>Widgets</b>
+SÃ£o componentes que podem ser adicionados no layout, sÃ£o organizados em hierarquias para formar a tela. Consulta aos widgets: https://flutter.dev/docs/development/ui/widgets
 
-<b>setState(() {} )
-Função necessária para poder se conseguir alterar o estado de um Widget na tela, qualquer coisa que altere o estado de um Widget deve estar dentro dela, se não, não será alterado. O flutter atualiza somente redenriza os componentes alterados.
+<b>setState(() {} )</b>
+FunÃ§Ã£o necessÃ¡ria para poder se conseguir alterar o estado de um Widget na tela, qualquer coisa que altere o estado de um Widget deve estar dentro dela, se nÃ£o, nÃ£o serÃ¡ alterado. O flutter atualiza somente redenriza os componentes alterados.
 
-<b>Statefull
-Altera o estado ao longo da uso da aplicação, o hot reload funciona nesses casos.
+<b>Statefull</b>
+Altera o estado ao longo da uso da aplicaÃ§Ã£o, o hot reload funciona nesses casos.
 
-<b>Material design
+<b>Material design</b>
 Site: material.io
 
-<b>Stateless
-Mantém o mesmo estado ao longo da aplicação, caso o pai seja stateless, não funciona o hot reload nos filhos.
+<b>Stateless</b>
+MantÃ©m o mesmo estado ao longo da aplicaÃ§Ã£o, caso o pai seja stateless, nÃ£o funciona o hot reload nos filhos.
 
 
 # Apps Desenvolvidos e conceitos utilizados.
 
-<li>contador_de_pessoas : MaterialApp, StatefulWidget, setState, adição de imagem do resources (asset), Image.asset, Text, TextStyle, FlatButton, Padding, Stack, Column, debugPrint, Container, EdgeInsets, Colors;
+<li>contador_de_pessoas : MaterialApp, StatefulWidget, setState, adiÃ§Ã£o de imagem do resources (asset), Image.asset, Text, TextStyle, FlatButton, Padding, Stack, Column, debugPrint, Container, EdgeInsets, Colors;
 
 <li>calculo_imc : TextEditingController, double.parse, .toStringAsPrecision(3), Scaffold, AppBar, IconButton, Icons, SingleChildScrollView, GlobalKey<FormState>, Form, TextFormField, TextInputType, RaisedButton, Column;
 
@@ -31,7 +31,7 @@ Mantém o mesmo estado ao longo da aplicação, caso o pai seja stateless, não func
 
 <li>lista_tarefas: initState, getApplicationDocumentsDirectory, File, Future.delayed, Row, ListView, Expanded, Dismissible, DateTime, Align, CheckboxListTile, SnackBar, SnackBarAction, Duration;
 
-<li>buscador_gifs : debugShowCheckedModeBanner, separação das telas por arquivos, Image.network, CircularProgressIndicator, AlwaysStoppedAnimation, Alignment, AsyncSnapshot, GridView, SliverGridDelegateWithFixedCrossAxisCount, GestureDetector, FadeInImage, kTransparentImage, BoxFit, Navigator, MaterialPageRoute, Share;
+<li>buscador_gifs : debugShowCheckedModeBanner, separaÃ§Ã£o das telas por arquivos, Image.network, CircularProgressIndicator, AlwaysStoppedAnimation, Alignment, AsyncSnapshot, GridView, SliverGridDelegateWithFixedCrossAxisCount, GestureDetector, FadeInImage, kTransparentImage, BoxFit, Navigator, MaterialPageRoute, Share;
 
 <li>agenda_contatos: enum, PopupMenuButton, PopupMenuEntry, PopupMenuItem, FloatingActionButton, Card, BoxDecoration, BoxShape, DecorationImage, FileImage, AssetImage, showModalBottomSheet, BottomSheet, FlatButton, Navigator, sort, FocusNode, WillPopScope, FocusScope, ImagePicker, ImageSource, FileImage, AssetImage, showDialog, AlertDialog, FlatButton, Future.value, singleton, Database, fromMap, toMap;
 
@@ -48,19 +48,19 @@ Mantém o mesmo estado ao longo da aplicação, caso o pai seja stateless, não func
 <li>animation (Screenshots): import 'package:flutter/scheduler.dart' show timeDilation;, SafeArea, IgnorePointer;
 
 # Packages Utilizados
-<li>http : requisições http para API Restful;
+<li>http : requisiÃ§Ãµes http para API Restful;
 
-<li>path_provider : retorna o endereço do arquivo no dispositivo;
+<li>path_provider : retorna o endereÃ§o do arquivo no dispositivo;
 
-<li>share : compartilha conteúdo do app, mostra dialog do sistema para compartilhar;
+<li>share : compartilha conteÃºdo do app, mostra dialog do sistema para compartilhar;
 
 <li>transparent_image : imagem transaparent para o FadeInImage;
 
 <li>sqflite : banco de dados SQLite;
 
-<li>url_launcher : abre aplicativos padrão do sistema: navegador, discador, etc;
+<li>url_launcher : abre aplicativos padrÃ£o do sistema: navegador, discador, etc;
 
-<li>image_picker : Obtém uma imagem da camera ou da galeria;
+<li>image_picker : ObtÃ©m uma imagem da camera ou da galeria;
 
 <li>cloud_firestore : acesso ao db firestore;
 
@@ -68,7 +68,7 @@ Mantém o mesmo estado ao longo da aplicação, caso o pai seja stateless, não func
 
 <li>firebase_storage : acesso ao storage (blog de imagens);
 
-<li>firebase_auth : autenticação com o firebase;
+<li>firebase_auth : autenticaÃ§Ã£o com o firebase;
 
 <li>firebase_analytics : analytics do firebase;
 
@@ -80,14 +80,14 @@ Mantém o mesmo estado ao longo da aplicação, caso o pai seja stateless, não func
 
 <li>carousel_pro : carrossel;
 
-<li>scoped_model : conjunto de utilitários para passar dados de um Model para um Widget pai e seus filhos, permitindo ainda sua reconstrução caso o Model seja atualizado;
+<li>scoped_model : conjunto de utilitÃ¡rios para passar dados de um Model para um Widget pai e seus filhos, permitindo ainda sua reconstruÃ§Ã£o caso o Model seja atualizado;
 
-<li>flare_flutter: pacote para permitir adicionar as animações do Flare no app Flutter;
+<li>flare_flutter: pacote para permitir adicionar as animaÃ§Ãµes do Flare no app Flutter;
 
 <li>flutter_youtube: player para videos do youtube;
 
-<li>shared_preferences: acessa as configurações de usuário salvas no dispositivo;
+<li>shared_preferences: acessa as configuraÃ§Ãµes de usuÃ¡rio salvas no dispositivo;
 
-<li>rxdart: reactive X para dart, utilizado para facilitar a implementação do BloC;
+<li>rxdart: reactive X para dart, utilizado para facilitar a implementaÃ§Ã£o do BloC;
 
-<li>bloc_pattern: ajuda na implementação do BloC pattern no flutter;
+<li>bloc_pattern: ajuda na implementaÃ§Ã£o do BloC pattern no flutter;
