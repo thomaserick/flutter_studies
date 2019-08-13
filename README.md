@@ -25,7 +25,7 @@ Mantém o mesmo estado ao longo da aplicação, caso o pai seja stateless, não 
 
 # Apps Desenvolvidos e conceitos utilizados.
 
-- [Agenda de Contatos](https://github.com/thomaserick/flutter_studies/tree/master/agenda_contatos): MaterialApp, StatefulWidget, setState, adição de imagem do resources (asset), Image.asset, Text, TextStyle, FlatButton, Padding, Stack, Column, debugPrint, Container, EdgeInsets, Colors;
+- [Agenda_Contatos](https://github.com/thomaserick/flutter_studies/tree/master/agenda_contatos): MaterialApp, StatefulWidget, setState, adição de imagem do resources (asset), Image.asset, Text, TextStyle, FlatButton, Padding, Stack, Column, debugPrint, Container, EdgeInsets, Colors;
 
 - [calculo_imc](https://github.com/thomaserick/flutter_studies/tree/master/calculo_imc) : TextEditingController, double.parse, .toStringAsPrecision, Scaffold, AppBar, IconButton, Icons, SingleChildScrollView, GlobalKey<FormState>, Form, TextFormField, TextInputType, RaisedButton, Column;
 
