@@ -1,7 +1,7 @@
-# agenda_contatos
+# Agenda de Contados
 
+## Detalhes do Projeto
 
-## Detalhe do Projeto
 - salvar contatos com nome, email, telefone e imagens
 - excluir contatos
 - ligar para o contato
