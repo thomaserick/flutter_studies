@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "963438000577",
+    "firebase_url": "https://chatfernandes.firebaseio.com",
+    "project_id": "chatfernandes",
+    "storage_bucket": "chatfernandes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963438000577:android:f79f660f76dde9f2",
+        "android_client_info": {
+          "package_name": "br.com.devgeek.chat_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963438000577-dil6bo6u6v5cmikpm3qoqm5d9use4576.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.devgeek.chat_online",
+            "certificate_hash": "787e64ade5d2ed2d2b09e838dde7200b4121c01c"
+          }
+        },
+        {
+          "client_id": "963438000577-ndhsn632kug4uperu8ojoretkt7b7lhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByNmin0U85LhV9Dp8azuVTXkZLt1qgN7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963438000577-ndhsn632kug4uperu8ojoretkt7b7lhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
