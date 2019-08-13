@@ -25,7 +25,7 @@ Mantém o mesmo estado ao longo da aplicação, caso o pai seja stateless, não 
 
 # Apps Desenvolvidos e conceitos utilizados.
 
-- [Agenda_Contatos](https://github.com/thomaserick/flutter_studies/tree/master/agenda_contatos): MaterialApp, StatefulWidget, setState, adição de imagem do resources (asset), Image.asset, Text, TextStyle, FlatButton, Padding, Stack, Column, debugPrint, Container, EdgeInsets, Colors;
+- [contador_de_pessoa](https://github.com/thomaserick/flutter_studies/tree/master/contador_de_pessoa): MaterialApp, StatefulWidget, setState, adição de imagem do resources (asset), Image.asset, Text, TextStyle, FlatButton, Padding, Stack, Column, debugPrint, Container, EdgeInsets, Colors;
 
 - [calculo_imc](https://github.com/thomaserick/flutter_studies/tree/master/calculo_imc) : TextEditingController, double.parse, .toStringAsPrecision, Scaffold, AppBar, IconButton, Icons, SingleChildScrollView, GlobalKey<FormState>, Form, TextFormField, TextInputType, RaisedButton, Column;
 
@@ -35,7 +35,7 @@ Mantém o mesmo estado ao longo da aplicação, caso o pai seja stateless, não 
 
 - [api_giphy](https://github.com/thomaserick/flutter_studies/tree/master/api_giphy) : debugShowCheckedModeBanner, separação das telas por arquivos, Image.network, CircularProgressIndicator, AlwaysStoppedAnimation, Alignment, AsyncSnapshot, GridView, SliverGridDelegateWithFixedCrossAxisCount, GestureDetector, FadeInImage, kTransparentImage, BoxFit, Navigator, MaterialPageRoute, Share;
 
-<li>agenda_contatos: enum, PopupMenuButton, PopupMenuEntry, PopupMenuItem, FloatingActionButton, Card, BoxDecoration, BoxShape, DecorationImage, FileImage, AssetImage, showModalBottomSheet, BottomSheet, FlatButton, Navigator, sort, FocusNode, WillPopScope, FocusScope, ImagePicker, ImageSource, FileImage, AssetImage, showDialog, AlertDialog, FlatButton, Future.value, singleton, Database, fromMap, toMap;
+- [agenda_contatos](https://github.com/thomaserick/flutter_studies/tree/master/agenda_contatos): enum, PopupMenuButton, PopupMenuEntry, PopupMenuItem, FloatingActionButton, Card, BoxDecoration, BoxShape, DecorationImage, FileImage, AssetImage, showModalBottomSheet, BottomSheet, FlatButton, Navigator, sort, FocusNode, WillPopScope, FocusScope, ImagePicker, ImageSource, FileImage, AssetImage, showDialog, AlertDialog, FlatButton, Future.value, singleton, Database, fromMap, toMap;
 
 <li>chat_online: ThemeData, GoogleSignIn, FirebaseAuth, GoogleSignInAccount, GoogleSignInAuthentication, Firestore, Theme.of(context).platform, SafeArea, StreamBuilder, CircularProgressIndicator, Divider, IconTheme, IconThemeData, IconButton, StorageUploadTask, FirebaseStorage, CupertinoButton, IconButton, CircleAvatar;
 
