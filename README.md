@@ -33,7 +33,7 @@ Mantém o mesmo estado ao longo da aplicação, caso o pai seja stateless, não 
 
 - [listaTarefas](https://github.com/thomaserick/flutter_studies/tree/master/listaTarefa): initState, getApplicationDocumentsDirectory, File, Future.delayed, Row, ListView, Expanded, Dismissible, DateTime, Align, CheckboxListTile, SnackBar, SnackBarAction, Duration;
 
-<li>api_giphy : debugShowCheckedModeBanner, separação das telas por arquivos, Image.network, CircularProgressIndicator, AlwaysStoppedAnimation, Alignment, AsyncSnapshot, GridView, SliverGridDelegateWithFixedCrossAxisCount, GestureDetector, FadeInImage, kTransparentImage, BoxFit, Navigator, MaterialPageRoute, Share;
+- [api_giphy](https://github.com/thomaserick/flutter_studies/tree/master/api_giphy) : debugShowCheckedModeBanner, separação das telas por arquivos, Image.network, CircularProgressIndicator, AlwaysStoppedAnimation, Alignment, AsyncSnapshot, GridView, SliverGridDelegateWithFixedCrossAxisCount, GestureDetector, FadeInImage, kTransparentImage, BoxFit, Navigator, MaterialPageRoute, Share;
 
 <li>agenda_contatos: enum, PopupMenuButton, PopupMenuEntry, PopupMenuItem, FloatingActionButton, Card, BoxDecoration, BoxShape, DecorationImage, FileImage, AssetImage, showModalBottomSheet, BottomSheet, FlatButton, Navigator, sort, FocusNode, WillPopScope, FocusScope, ImagePicker, ImageSource, FileImage, AssetImage, showDialog, AlertDialog, FlatButton, Future.value, singleton, Database, fromMap, toMap;
 
