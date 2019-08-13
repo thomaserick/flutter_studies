@@ -15,7 +15,7 @@ Função necessária para poder se conseguir alterar o estado de um Widget na te
 Altera o estado ao longo da uso da aplicação, o hot reload funciona nesses casos.
 
 <b>Material design</b>
-Site: material.io
+https://material.io
 
 <b>Stateless</b>
 Mantém o mesmo estado ao longo da aplicação, caso o pai seja stateless, não funciona o hot reload nos filhos.
