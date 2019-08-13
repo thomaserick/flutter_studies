@@ -4,4 +4,4 @@
  - Amarzena os dados permanente no dispositivo em .json
  - opção de Marcar
  - excluir
- - Atualizar as marcadas, as mesmas se desloca para o final da pagina
+ - as marcadas se deslocam para o final da lista
