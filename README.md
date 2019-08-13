@@ -39,15 +39,15 @@ Mantém o mesmo estado ao longo da aplicação, caso o pai seja stateless, não 
 
 - [chat_online](https://github.com/thomaserick/flutter_studies/tree/master/chat_online): ThemeData, GoogleSignIn, FirebaseAuth, GoogleSignInAccount, GoogleSignInAuthentication, Firestore, Theme.of(context).platform, SafeArea, StreamBuilder, CircularProgressIndicator, Divider, IconTheme, IconThemeData, IconButton, StorageUploadTask, FirebaseStorage, CupertinoButton, IconButton, CircleAvatar;
 
-<li>loja_virtual (Screenshots): Model, notifyListeners, ScopedModel, ScopedModelDescendant, Color.fromARGB, SizedBox, ExpansionTile, Expanded, CircleAvatar, InkWell (para dar o effeito de ripple), SliverAppBar, SliverStaggeredGrid, CustomScrollView, FadeInImage.memoryNetwork, NeverScrollableScrollPhysics, drawer, VoidCallback;
+<!-- <li>loja_virtual (Screenshots): Model, notifyListeners, ScopedModel, ScopedModelDescendant, Color.fromARGB, SizedBox, ExpansionTile, Expanded, CircleAvatar, InkWell (para dar o effeito de ripple), SliverAppBar, SliverStaggeredGrid, CustomScrollView, FadeInImage.memoryNetwork, NeverScrollableScrollPhysics, drawer, VoidCallback;
 
-<li>flare_test : FlareActor, SplashScreen;
+<!--flare_test : FlareActor, SplashScreen;
 
-<li>fluttertube : factory Video.fromJson, SearchDelegate, showSearch, Future.delayed(Duration.zero).then((_) => close(context, query)), FlutterYoutube, BlocBase, dispose, BlocProvider, StreamController, StreamBuilder, BehaviorSubject, MapEntry, SharedPreferences, cast, containsKey, remove, CircularProgressIndicator, AlwaysStoppedAnimation, Infinity scroll, stream, sink;
+<!--fluttertube : factory Video.fromJson, SearchDelegate, showSearch, Future.delayed(Duration.zero).then((_) => close(context, query)), FlutterYoutube, BlocBase, dispose, BlocProvider, StreamController, StreamBuilder, BehaviorSubject, MapEntry, SharedPreferences, cast, containsKey, remove, CircularProgressIndicator, AlwaysStoppedAnimation, Infinity scroll, stream, sink;
 
-<li>animations : SingleTickerProviderStateMixin, AnimationController, void initState(), void dispose(), Animation, AnimatedWidget, animation.addStatusListener, animation.addListener, Tween, FlutterLogo, AnimatedBuilder, Curves.easeInOut, Curves.bounceIn, Curves.elasticOut, Curves.fastOutSlowIn, opacityTween.evaluate(animation).clamp(0.0, 1.0);
+<!--<li>animations : SingleTickerProviderStateMixin, AnimationController, void initState(), void dispose(), Animation, AnimatedWidget, animation.addStatusListener, animation.addListener, Tween, FlutterLogo, AnimatedBuilder, Curves.easeInOut, Curves.bounceIn, Curves.elasticOut, Curves.fastOutSlowIn, opacityTween.evaluate(animation).clamp(0.0, 1.0);
 
-<li>animation (Screenshots): import 'package:flutter/scheduler.dart' show timeDilation;, SafeArea, IgnorePointer;
+<!--animation (Screenshots): import 'package:flutter/scheduler.dart' show timeDilation;, SafeArea, IgnorePointer;
 
 # Packages Utilizados
 <li>http : requisições http para API Restful;
