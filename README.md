@@ -29,7 +29,7 @@ Mantém o mesmo estado ao longo da aplicação, caso o pai seja stateless, não 
 
 - [calculo_imc](https://github.com/thomaserick/flutter_studies/tree/master/calculo_imc) : TextEditingController, double.parse, .toStringAsPrecision, Scaffold, AppBar, IconButton, Icons, SingleChildScrollView, GlobalKey<FormState>, Form, TextFormField, TextInputType, RaisedButton, Column;
 
-- conversor(https://github.com/thomaserick/flutter_studies/tree/master/conversor): async, FutureBuilder, Icon, Divider, Future, http, json, TextField, InputDecoration, OutlineInputBorder;
+- [conversor](https://github.com/thomaserick/flutter_studies/tree/master/conversor): async, FutureBuilder, Icon, Divider, Future, http, json, TextField, InputDecoration, OutlineInputBorder;
 
 <li>lista_tarefas: initState, getApplicationDocumentsDirectory, File, Future.delayed, Row, ListView, Expanded, Dismissible, DateTime, Align, CheckboxListTile, SnackBar, SnackBarAction, Duration;
 
