@@ -1,6 +1,6 @@
 # Agenda de Contados
 
-## Detalhes do Projeto
+<b>Detalhes do Projeto</b>
 
 - salvar contatos com nome, email, telefone e imagens
 - excluir contatos
