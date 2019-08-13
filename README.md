@@ -1,5 +1,7 @@
-# Estudos em Flutter
+## Getting Started Flutter
 
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
 
 <b>Packages Dart: https://pub.dartlang.org/flutter</b>
 
