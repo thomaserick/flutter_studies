@@ -1,4 +1,4 @@
-#Calcula o IMC(Índice de massa corporal)
+# Calcula o IMC(Índice de massa corporal)
 
 ### Detalhes do Projeto
 
