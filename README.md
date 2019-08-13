@@ -1,4 +1,4 @@
-# Estudos na Linguagem Flutter
+# Estudos em Flutter
 
 
 <b>Packages Dart: https://pub.dartlang.org/flutter</b>
@@ -39,11 +39,11 @@ Mantém o mesmo estado ao longo da aplicação, caso o pai seja stateless, não 
 
 <li>loja_virtual (Screenshots): Model, notifyListeners, ScopedModel, ScopedModelDescendant, Color.fromARGB, SizedBox, ExpansionTile, Expanded, CircleAvatar, InkWell (para dar o effeito de ripple), SliverAppBar, SliverStaggeredGrid, CustomScrollView, FadeInImage.memoryNetwork, NeverScrollableScrollPhysics, drawer, VoidCallback;
 
-<li>flare_test (Screenshots): FlareActor, SplashScreen;
+<li>flare_test : FlareActor, SplashScreen;
 
-<li>fluttertube (Screenshots): factory Video.fromJson, SearchDelegate, showSearch, Future.delayed(Duration.zero).then((_) => close(context, query)), FlutterYoutube, BlocBase, dispose, BlocProvider, StreamController, StreamBuilder, BehaviorSubject, MapEntry, SharedPreferences, cast, containsKey, remove, CircularProgressIndicator, AlwaysStoppedAnimation, Infinity scroll, stream, sink;
+<li>fluttertube : factory Video.fromJson, SearchDelegate, showSearch, Future.delayed(Duration.zero).then((_) => close(context, query)), FlutterYoutube, BlocBase, dispose, BlocProvider, StreamController, StreamBuilder, BehaviorSubject, MapEntry, SharedPreferences, cast, containsKey, remove, CircularProgressIndicator, AlwaysStoppedAnimation, Infinity scroll, stream, sink;
 
-<li>animations (Screenshots): SingleTickerProviderStateMixin, AnimationController, void initState(), void dispose(), Animation, AnimatedWidget, animation.addStatusListener, animation.addListener, Tween, FlutterLogo, AnimatedBuilder, Curves.easeInOut, Curves.bounceIn, Curves.elasticOut, Curves.fastOutSlowIn, opacityTween.evaluate(animation).clamp(0.0, 1.0);
+<li>animations : SingleTickerProviderStateMixin, AnimationController, void initState(), void dispose(), Animation, AnimatedWidget, animation.addStatusListener, animation.addListener, Tween, FlutterLogo, AnimatedBuilder, Curves.easeInOut, Curves.bounceIn, Curves.elasticOut, Curves.fastOutSlowIn, opacityTween.evaluate(animation).clamp(0.0, 1.0);
 
 <li>animation (Screenshots): import 'package:flutter/scheduler.dart' show timeDilation;, SafeArea, IgnorePointer;
 
